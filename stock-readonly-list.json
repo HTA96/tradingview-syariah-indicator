@@ -1,7 +1,7 @@
 {
   "mscAt": "2019-12-31T00:00:00.000Z",
   "mscLink": "https://www.bursamalaysia.com/sites/5d809dcf39fba22790cad230/assets/5e1598515b711a666348f0e8/Mid_Small_Cap_PLCs__Mkt_cap_of_200_mil_to_2_bil__Dec2019_V3.0.pdf",
-  "updatedAt": "2020-10-27T11:56:53.660Z",
+  "updatedAt": "2020-11-01T03:08:28.732Z",
   "list": {
     "MYX:3A": {
       "s": 1,
@@ -1184,6 +1184,9 @@
       "s": 1,
       "msc": 1
     },
+    "MYX:JAKS-OR": {
+      "s": 1
+    },
     "MYX:JAKS-WB": {
       "s": 1
     },
@@ -1277,9 +1280,6 @@
       "msc": 1
     },
     "MYX:KGROUP": {
-      "s": 1
-    },
-    "MYX:KGROUP-OR": {
       "s": 1
     },
     "MYX:KHEESAN": {
@@ -2122,168 +2122,6 @@
     "MYX:PRLEXUS": {
       "s": 1
     },
-    "MYX:PRLEXUS-WA": {
-      "s": 1
-    },
-    "MYX:PRTASCO": {
-      "s": 1
-    },
-    "MYX:PRTASCO-WA": {
-      "s": 1
-    },
-    "MYX:PTARAS": {
-      "s": 1,
-      "msc": 1
-    },
-    "MYX:PTB": {
-      "s": 1
-    },
-    "MYX:PTRANS": {
-      "s": 1,
-      "msc": 1
-    },
-    "MYX:PUC": {
-      "s": 1
-    },
-    "MYX:PUC-WA": {
-      "s": 1
-    },
-    "MYX:PUNCAK": {
-      "s": 1
-    },
-    "MYX:PWF": {
-      "s": 1
-    },
-    "MYX:PWF-WA": {
-      "s": 1
-    },
-    "MYX:PWORTH": {
-      "s": 1
-    },
-    "MYX:PWROOT": {
-      "s": 1,
-      "msc": 1
-    },
-    "MYX:PWROOT-WA": {
-      "s": 1
-    },
-    "MYX:PWRWELL": {
-      "s": 1
-    },
-    "MYX:QES": {
-      "s": 1
-    },
-    "MYX:QL": {
-      "s": 1
-    },
-    "MYX:QUALITY": {
-      "s": 1
-    },
-    "MYX:RALCO": {
-      "s": 1
-    },
-    "MYX:RANHILL": {
-      "s": 1,
-      "msc": 1
-    },
-    "MYX:REACH": {
-      "s": 1
-    },
-    "MYX:REACH-WA": {
-      "s": 1
-    },
-    "MYX:REDTONE": {
-      "s": 1,
-      "msc": 1
-    },
-    "MYX:RESINTC": {
-      "s": 1
-    },
-    "MYX:REVENUE": {
-      "s": 1,
-      "msc": 1
-    },
-    "MYX:REVENUE-WA": {
-      "s": 1
-    },
-    "MYX:REX": {
-      "s": 1
-    },
-    "MYX:RGTBHD": {
-      "s": 1
-    },
-    "MYX:RGTBHD-WB": {
-      "s": 1
-    },
-    "MYX:RGTECH": {
-      "s": 1
-    },
-    "MYX:ROHAS": {
-      "s": 1,
-      "msc": 1
-    },
-    "MYX:RSAWIT": {
-      "s": 1,
-      "msc": 1
-    },
-    "MYX:RUBEREX": {
-      "s": 1
-    },
-    "MYX:RVIEW": {
-      "s": 1
-    },
-    "MYX:SAB": {
-      "s": 1,
-      "msc": 1
-    },
-    "MYX:SALCON": {
-      "s": 1,
-      "msc": 1
-    },
-    "MYX:SALCON-WB": {
-      "s": 1
-    },
-    "MYX:SALUTE": {
-      "s": 1,
-      "msc": 1
-    },
-    "MYX:SAM": {
-      "s": 1,
-      "msc": 1
-    },
-    "MYX:SAMAIDEN": {
-      "s": 1
-    },
-    "MYX:SAPIND": {
-      "s": 1
-    },
-    "MYX:SAPNRG": {
-      "s": 1
-    },
-    "MYX:SAPNRG-PA": {
-      "s": 1
-    },
-    "MYX:SAPNRG-WA": {
-      "s": 1
-    },
-    "MYX:SAPRES": {
-      "s": 1
-    },
-    "MYX:SASBADI": {
-      "s": 1
-    },
-    "MYX:SAUDEE": {
-      "s": 1
-    },
-    "MYX:SAUDEE-WA": {
-      "s": 1
-    },
-    "MYX:SBCCORP": {
-      "s": 1
-    },
-    "MYX:SCABLE": {
-      "s": 1
-    },
     "MYX:SCBUILD": {
       "s": 1
     },
@@ -3109,6 +2947,18 @@
     "MYX:P&O": {
       "msc": 1
     },
+    "MYX:PTRANS": {
+      "msc": 1
+    },
+    "MYX:PTARAS": {
+      "msc": 1
+    },
+    "MYX:PWROOT": {
+      "msc": 1
+    },
+    "MYX:RANHILL": {
+      "msc": 1
+    },
     "MYX:RAPID": {
       "msc": 1
     },
@@ -3118,10 +2968,34 @@
     "MYX:RSENA": {
       "msc": 1
     },
+    "MYX:REDTONE": {
+      "msc": 1
+    },
+    "MYX:REVENUE": {
+      "msc": 1
+    },
     "MYX:RGB": {
       "msc": 1
     },
+    "MYX:RSAWIT": {
+      "msc": 1
+    },
+    "MYX:ROHAS": {
+      "msc": 1
+    },
+    "MYX:SALCON": {
+      "msc": 1
+    },
+    "MYX:SALUTE": {
+      "msc": 1
+    },
+    "MYX:SAM": {
+      "msc": 1
+    },
     "MYX:SCICOM": {
+      "msc": 1
+    },
+    "MYX:SAB": {
       "msc": 1
     },
     "MYX:SSTEEL": {
